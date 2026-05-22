@@ -10,7 +10,7 @@ export default function Home() {
       flexDirection: "column"
     }}>
       <h1>NorthMart 🚀</h1>
-      <p>Website is Working Now</p>
+      <p>Fixed 404 Successfully</p>
     </div>
   );
 }
